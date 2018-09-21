@@ -1,2 +1,4 @@
 # LearningPaths
-Location for Learning Path documentation.
+
+This repo is a sandbox for the learning of github.
+
